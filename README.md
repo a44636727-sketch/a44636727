@@ -1,4 +1,4 @@
-<h1 align="center">hola 👋, I'm Adam Pithenwala</h1>
+<h1 align="center">hola 👋, Soy Ghost </h1>
 
 
 <br>
